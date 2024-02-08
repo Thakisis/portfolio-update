@@ -1,3 +1,4 @@
+"use client"
 import { Button } from "@/components/ui/button";
 import logo from "../public/logoImg.jpg";
 import amable from "../public/amable-comprobantes.webp";
