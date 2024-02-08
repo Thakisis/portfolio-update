@@ -1,4 +1,4 @@
-"use client"
+
 import type { Metadata } from "next";
 import { Sofia_Sans } from "next/font/google";
 import "./globals.css";
