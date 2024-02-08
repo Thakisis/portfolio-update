@@ -1,5 +1,4 @@
 "use client"
-/*
 import { Button } from "@/components/ui/button";
 import logo from "../public/logoImg.jpg";
 import amable from "../public/amable-comprobantes.webp";
@@ -18,17 +17,10 @@ import {
   Star,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-*/
 
 export default function Page() {
   return (
     <div className="py-8 px-10 md:px-20 space-y-16 mb-5">
-      testpurpose
-    </div>
-  );
-}
-/*
-
       <section>
         <div className="flex items-center justify-between flex-col-reverse gap-4 md:flex-row text-center md:text-left">
           <div className="space-y-6">
@@ -163,4 +155,7 @@ export default function Page() {
             </Link>
           </Button>
         </div>
-      </section>*/
+      </section>
+    </div>
+  );
+}
